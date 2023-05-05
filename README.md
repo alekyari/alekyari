@@ -65,7 +65,7 @@ Hello World! <img alt="space-invaders" width="60px" src="https://w7.pngwing.com/
 
 <p align="center"><a href="https://twitter-clone-alekyari.vercel.app/" target="_blank">Twitter Clone</a> - A Clone of Twitter (April 2023) (React Js)</p>
 
-<p align="center"><a href="https://vite-commerce-alekyari.vercel.app/" target="_blank">E-Commerce</a> - E-Commerce (React Js)</p>
+<p align="center"><a href="https://vite-commerce-alekyari.vercel.app/" target="_blank">Vite-Commerce</a> - E-Commerce (React Js)</p>
 
 <p align="center"><a href="https://edgevideo.vercel.app/" target="_blank">Edge-Video</a> - Clone of Amazon Prime Video (Vanilla Js)</p>
 
