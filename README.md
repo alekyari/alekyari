@@ -2,7 +2,7 @@
 Hello World! <img alt="space-invaders" width="60px" src="https://w7.pngwing.com/pngs/319/722/png-transparent-computer-icons-space-invaders-space-invaders-game-text-orange.png" />
 </h1>
 
-<h3 align="center">Welcome to my GitHub!
+<h3 align="center">May the code be with you!
 <br>
 
 <img src="https://media.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif" />
